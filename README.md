@@ -45,7 +45,7 @@ Created a high-level snapshot, in a DataFrame, of the district's key metrics, in
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-![District_Summary](PyCitySchools/Analysis/District_Summary.PNG)
+![District_Summary](PyCitySchools/Analysis/District_Summary.png)
 
 ### School Summary
 
@@ -62,7 +62,7 @@ Created a DataFrame that summarizes key metrics about each school, including the
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-![School_Summary](PyCitySchools/Analysis/School_Summary.PNG)
+![School_Summary](PyCitySchools/Analysis/School_Summary.png)
 
 ### Highest-Performing Schools (by % Overall Passing)
 
@@ -79,7 +79,7 @@ Created a DataFrame that highlights the top 5 performing schools based on % Over
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-![Top_Performing_Schools](PyCitySchools/Analysis/Top_Performing_schools.PNG)
+![Top_Performing_Schools](PyCitySchools/Analysis/Top_Performing_schools.png)
 
 ### Lowest-Performing Schools (by % Overall Passing)
 
@@ -96,19 +96,19 @@ Created a DataFrame that highlights the bottom 5 performing schools based on % O
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-![Lowest_Performing_Schools](PyCitySchools/Analysis/Lowest_Performing_schools.PNG)
+![Lowest_Performing_Schools](PyCitySchools/Analysis/Lowest_Performing_schools.png)
 
 ### Math Scores by Grade
 
 Created a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-![Math_Score_By_Grade](PyCitySchools/Analysis/Math_Score_By_Grade.PNG)
+![Math_Score_By_Grade](PyCitySchools/Analysis/Math_Score_By_Grade.png)
 
 ### Reading Scores by Grade
 
 Created a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-![Reading_Score_By_Grade](PyCitySchools/Analysis/Reading_Score_By_Grade.PNG)
+![Reading_Score_By_Grade](PyCitySchools/Analysis/Reading_Score_By_Grade.png)
 
 ### Scores by School Spending
 
@@ -120,17 +120,17 @@ Created a table that breaks down school performance based on average spending ra
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-![Spending_Summary](PyCitySchools/Analysis/Spending_Summary.PNG)
+![Spending_Summary](PyCitySchools/Analysis/Spending_Summary.png)
 
 ### Scores by School Size
 
 Created a table that breaks down school performance based on school size (small, medium, or large).
 
-![School_Size_Summary](PyCitySchools/Analysis/School_Size_Summary.PNG)
+![School_Size_Summary](PyCitySchools/Analysis/School_Size_Summary.png)
 
 ### Scores by School Type
 
 Create a table that breaks down school performance based on type of school (district or charter).
 
-![School_Type_Summary](PyCitySchools/Analysis/School_Type_Summary.PNG)
+![School_Type_Summary](PyCitySchools/Analysis/School_Type_Summary.png)
 

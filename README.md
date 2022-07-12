@@ -27,7 +27,7 @@ The first task is to analyze the district-wide standardized test results. The pr
 
 Using Pandas and Jupyter Notebook, created a report that includes the following data. The report also included a written description of at least two observable trends based on the data.
 
-### Additional Trend Observed from Data
+### Additional Trends Observed from Data
 
 * All the schools in the district performed well in Reading compared to Math. District should provide more resources to schools to improve their student's Math performance. 
 * The overall best performing school is 'Cabrera High School', a Charter School with overall passing rate of 91.33% and the Lowest performing high school is 'Rodriguez High School', a district school with overall passing rate of 52.99% only.
